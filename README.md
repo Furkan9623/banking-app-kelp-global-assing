@@ -3,7 +3,7 @@
 step 1:node menu.js;
 
 
-step 2:Options will be reflected on the terminal and have to select options to create deposit withdraw and check balance;
+step 2:Create account,deposit amount, withdraw amount,checkbalance
 
 
 
